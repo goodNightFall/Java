@@ -1,0 +1,27 @@
+The program was opened by Denis 02:51:29.459828900
+	Incorrect input
+02:51:55.484731	Incorrect input
+02:51:55.485730200The program was ended 02:51:57.235810800
+
+The program was opened by Denis 02:53:26.469241700
+	Incorrect input
+ 02:53:29.831867300	Incorrect input
+ 02:53:30.503854300	Incorrect input
+ 02:53:32.178771900The program was ended 02:53:33.568275600
+
+The program was opened by Denis 02:54:11.809088500
+	Incorrect input
+ 02:54:14.156452700
+The program was ended 02:54:15.160263
+
+The program was opened by Denis 02:54:38.630769400
+	Incorrect input
+ 02:54:41.264160900
+	Incorrect input
+ 02:54:41.454749100
+	Incorrect input
+ 02:54:41.608850
+	Incorrect input
+ 02:54:41.761414600
+The program was ended 02:54:43.388064100
+

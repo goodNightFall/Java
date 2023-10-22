@@ -1,0 +1,1 @@
+9005 Brand: Mers Model: granta MaxWeight: 1 NumberOfPassengers: 1 MaxSpeed: -79 Trailer: 9338 Brand: Fer Model: W MaxWeight: 2 NumberOfPassengers: 2 MaxSpeed: 2
