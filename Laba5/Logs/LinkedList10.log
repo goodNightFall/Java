@@ -1,0 +1,16 @@
+	add, ID = 0, 26300
+	add, ID = 1, 26400
+	add, ID = 2, 4500
+	add, ID = 3, 3900
+	add, ID = 4, 4100
+	add, ID = 5, 3900
+	add, ID = 6, 3700
+	add, ID = 7, 6800
+	add, ID = 8, 5400
+	add, ID = 9, 2400
+	addTotal = 4331900
+	addMedium = 433190
+	remove, ID = 0, 21100
+	removeTotal = 233100
+	removeMedium = 23310
+
