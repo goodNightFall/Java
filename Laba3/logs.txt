@@ -25,3 +25,5 @@ The program was opened by Denis 02:54:38.630769400
  02:54:41.761414600
 The program was ended 02:54:43.388064100
 
+The program was opened by Denis 20:15:46.119584400
+	Incorrect input 20:15:51.079935900

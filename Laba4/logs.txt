@@ -114,3 +114,177 @@ The program was opened 15:17:04.659576300
 
 The program was ended 15:17:04.684495
 
+The program was opened 20:14:47.573809
+	add, ID = 0, 497900
+	add, ID = 1, 6800
+	add, ID = 2, 3700
+	add, ID = 3, 3800
+	add, ID = 4, 3400
+	add, ID = 5, 3500
+	add, ID = 6, 3600
+	add, ID = 7, 3100
+	add, ID = 8, 3200
+	add, ID = 9, 2400
+	addTotal = 11663200
+	addMedium = 1166320
+	remove, ID = 3, 25600
+	removeTotal = 230600
+	removeMedium = 23060
+
+	add, ID = 0, 13800
+	add, ID = 1, 5200
+	add, ID = 2, 3000
+	add, ID = 3, 2600
+	add, ID = 4, 2500
+	add, ID = 5, 2400
+	add, ID = 6, 3300
+	add, ID = 7, 2300
+	add, ID = 8, 3000
+	add, ID = 9, 2400
+	add, ID = 10, 14000
+	add, ID = 11, 3000
+	add, ID = 12, 2300
+	add, ID = 13, 4500
+	add, ID = 14, 2800
+	add, ID = 15, 13300
+	addTotal = 3028800
+	addMedium = 189300
+	remove, ID = 1, 7900
+	remove, ID = 3, 5900
+	removeTotal = 434800
+	removeMedium = 27175
+
+	add, ID = 0, 25100
+	add, ID = 1, 12900
+	add, ID = 2, 4400
+	add, ID = 3, 3500
+	add, ID = 4, 7000
+	add, ID = 5, 3700
+	add, ID = 6, 28000
+	add, ID = 7, 28700
+	add, ID = 8, 15200
+	add, ID = 9, 13900
+	addTotal = 4457500
+	addMedium = 445750
+	remove, ID = 3, 21000
+	removeTotal = 316500
+	removeMedium = 31650
+
+The program was ended 20:14:47.598139400
+
+The program was opened 20:15:20.644234100
+	add, ID = 0, 603300
+	add, ID = 1, 19300
+	add, ID = 2, 4400
+	add, ID = 3, 4000
+	add, ID = 4, 3700
+	add, ID = 5, 3300
+	add, ID = 6, 3400
+	add, ID = 7, 3200
+	add, ID = 8, 3300
+	add, ID = 9, 4700
+	addTotal = 13581100
+	addMedium = 1358110
+	remove, ID = 8, 23400
+	removeTotal = 193200
+	removeMedium = 19320
+
+	add, ID = 0, 9500
+	add, ID = 1, 2800
+	add, ID = 2, 2500
+	add, ID = 3, 2400
+	add, ID = 4, 2800
+	add, ID = 5, 2500
+	add, ID = 6, 3300
+	add, ID = 7, 2500
+	add, ID = 8, 5300
+	add, ID = 9, 3000
+	add, ID = 10, 11300
+	add, ID = 11, 50300
+	add, ID = 12, 2500
+	add, ID = 13, 2600
+	add, ID = 14, 2200
+	add, ID = 15, 8600
+	addTotal = 3299100
+	addMedium = 206193
+	remove, ID = 11, 9400
+	remove, ID = 0, 6200
+	removeTotal = 355700
+	removeMedium = 22231
+
+	add, ID = 0, 23500
+	add, ID = 1, 9000
+	add, ID = 2, 5500
+	add, ID = 3, 2200
+	add, ID = 4, 3300
+	add, ID = 5, 2700
+	add, ID = 6, 2900
+	add, ID = 7, 12500
+	add, ID = 8, 3600
+	add, ID = 9, 13800
+	addTotal = 2971800
+	addMedium = 297180
+	remove, ID = 1, 12700
+	removeTotal = 164700
+	removeMedium = 16470
+
+The program was ended 20:15:20.669237400
+
+The program was opened 20:15:27.762404500
+	add, ID = 0, 453800
+	add, ID = 1, 8300
+	add, ID = 2, 3500
+	add, ID = 3, 4000
+	add, ID = 4, 2900
+	add, ID = 5, 3400
+	add, ID = 6, 2900
+	add, ID = 7, 3600
+	add, ID = 8, 2900
+	add, ID = 9, 3300
+	addTotal = 12193900
+	addMedium = 1219390
+	remove, ID = 6, 38200
+	removeTotal = 363700
+	removeMedium = 36370
+
+	add, ID = 0, 12100
+	add, ID = 1, 4000
+	add, ID = 2, 4000
+	add, ID = 3, 4000
+	add, ID = 4, 3800
+	add, ID = 5, 3400
+	add, ID = 6, 5000
+	add, ID = 7, 4900
+	add, ID = 8, 4800
+	add, ID = 9, 3100
+	add, ID = 10, 18800
+	add, ID = 11, 17600
+	add, ID = 12, 2300
+	add, ID = 13, 2700
+	add, ID = 14, 2500
+	add, ID = 15, 7700
+	addTotal = 3708800
+	addMedium = 231800
+	remove, ID = 10, 7500
+	remove, ID = 0, 20400
+	removeTotal = 287500
+	removeMedium = 17968
+
+	add, ID = 0, 23000
+	add, ID = 1, 6300
+	add, ID = 2, 3300
+	add, ID = 3, 3000
+	add, ID = 4, 4300
+	add, ID = 5, 2800
+	add, ID = 6, 12100
+	add, ID = 7, 4400
+	add, ID = 8, 2200
+	add, ID = 9, 33900
+	addTotal = 2771000
+	addMedium = 277100
+	remove, ID = 8, 20000
+	removeTotal = 298300
+	removeMedium = 29830
+
+The program was ended 20:15:27.786574800
+
