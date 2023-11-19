@@ -1,0 +1,116 @@
+The program was opened 15:03:40.184297200
+	add, ID = 0, 473300
+	add, ID = 1, 2999
+	add, ID = 2, 3099
+	add, ID = 3, 3200
+	add, ID = 4, 2800
+	add, ID = 5, 3101
+	add, ID = 6, 2800
+	add, ID = 7, 3000
+	add, ID = 8, 2899
+	add, ID = 9, 2699
+	addTotal = 13261200
+	addMedium = 1326120
+	remove, ID = 2, 8801
+	removeTotal = 228800
+	removeMedium = 22880
+
+	add, ID = 0, 4200
+	add, ID = 1, 3000
+	add, ID = 2, 5901
+	add, ID = 3, 2699
+	add, ID = 4, 2600
+	add, ID = 5, 2699
+	add, ID = 6, 3000
+	add, ID = 7, 3000
+	add, ID = 8, 2600
+	add, ID = 9, 2501
+	add, ID = 10, 8701
+	add, ID = 11, 9600
+	add, ID = 12, 18200
+	add, ID = 13, 10799
+	add, ID = 14, 18700
+	add, ID = 15, 39501
+	addTotal = 6196501
+	addMedium = 387281
+	remove, ID = 1, 13700
+	remove, ID = 5, 5601
+	removeTotal = 315700
+	removeMedium = 19731
+
+	add, ID = 0, 56300
+	add, ID = 1, 3899
+	add, ID = 2, 2400
+	add, ID = 3, 2101
+	add, ID = 4, 3600
+	add, ID = 5, 2600
+	add, ID = 6, 2101
+	add, ID = 7, 3800
+	add, ID = 8, 2100
+	add, ID = 9, 2100
+	addTotal = 3464700
+	addMedium = 346470
+	remove, ID = 3, 10300
+	removeTotal = 274901
+	removeMedium = 27490
+
+The program was ended 15:03:40.212865700
+
+The program was opened 15:17:04.659576300
+	add, ID = 0, 1151700
+	add, ID = 1, 4099
+	add, ID = 2, 2800
+	add, ID = 3, 3100
+	add, ID = 4, 3200
+	add, ID = 5, 3000
+	add, ID = 6, 2800
+	add, ID = 7, 3001
+	add, ID = 8, 3101
+	add, ID = 9, 2999
+	addTotal = 14604701
+	addMedium = 1460470
+	remove, ID = 0, 10900
+	removeTotal = 248100
+	removeMedium = 24810
+
+	add, ID = 0, 4400
+	add, ID = 1, 5900
+	add, ID = 2, 2900
+	add, ID = 3, 7201
+	add, ID = 4, 2900
+	add, ID = 5, 2700
+	add, ID = 6, 2600
+	add, ID = 7, 2500
+	add, ID = 8, 2600
+	add, ID = 9, 2101
+	add, ID = 10, 5800
+	add, ID = 11, 7701
+	add, ID = 12, 2000
+	add, ID = 13, 2100
+	add, ID = 14, 1799
+	add, ID = 15, 5301
+	addTotal = 2849700
+	addMedium = 178106
+	remove, ID = 9, 5101
+	remove, ID = 8, 4600
+	removeTotal = 268400
+	removeMedium = 16775
+
+	add, ID = 0, 29300
+	add, ID = 1, 3500
+	add, ID = 2, 2099
+	add, ID = 3, 2200
+	add, ID = 4, 3400
+	add, ID = 5, 2099
+	add, ID = 6, 1999
+	add, ID = 7, 3199
+	add, ID = 8, 1900
+	add, ID = 9, 2000
+	addTotal = 2509300
+	addMedium = 250930
+	remove, ID = 4, 9700
+	removeTotal = 152000
+	removeMedium = 15200
+
+The program was ended 15:17:04.684495
+
