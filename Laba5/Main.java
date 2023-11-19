@@ -45,7 +45,7 @@ public class Main {
 
 				add_array_Panel.setPreferredSize(new Dimension(800, 600));
 				add_linked_Panel.setPreferredSize(new Dimension(800, 600));
-				JFrame frame = new JFrame("Среднее время добавления элемнта ArrayList и LinkedList");
+				JFrame frame = new JFrame("Среднее время добавления элемента ArrayList и LinkedList");
 				frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 				frame.add(add_array_Panel, BorderLayout.NORTH);
 				frame.add(add_linked_Panel, BorderLayout.CENTER);
@@ -75,7 +75,7 @@ public class Main {
 
 				add_array_total_Panel.setPreferredSize(new Dimension(800, 600));
 				add_linked_total_Panel.setPreferredSize(new Dimension(800, 600));
-				JFrame frame3 = new JFrame("Общее время добавления элемнта ArrayList и LinkedList");
+				JFrame frame3 = new JFrame("Общее время добавления элемента ArrayList и LinkedList");
 				frame3.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 				frame3.add(add_array_total_Panel, BorderLayout.NORTH);
 				frame3.add(add_linked_total_Panel, BorderLayout.CENTER);

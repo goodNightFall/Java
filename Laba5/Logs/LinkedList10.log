@@ -14,3 +14,19 @@
 	removeTotal = 233100
 	removeMedium = 23310
 
+	add, ID = 0, 22000
+	add, ID = 1, 30200
+	add, ID = 2, 11000
+	add, ID = 3, 4600
+	add, ID = 4, 15800
+	add, ID = 5, 3800
+	add, ID = 6, 3500
+	add, ID = 7, 2700
+	add, ID = 8, 5100
+	add, ID = 9, 2300
+	addTotal = 4262200
+	addMedium = 426220
+	remove, ID = 8, 10100
+	removeTotal = 227400
+	removeMedium = 22740
+
