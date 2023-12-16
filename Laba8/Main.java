@@ -11,9 +11,9 @@ public class Main {
     // Установка параметров для подключения к почтовому серверу
     final String server = "smtp.mail.ru";
     final int port = 465; // Используем порт для SSL
-    final String username = "email";
-    final String password = "secret_password";
-    final String recipient = "email";
+    final String username = "denisss_s03@mail.ru";
+    final String password = "cDv9VAvQGQcnspaKhmcw";
+    final String recipient = "denisss_s03@mail.ru";
 
     try (SSLSocket socket = (SSLSocket) SSLSocketFactory.getDefault().createSocket(server, port);
         PrintWriter writer = new PrintWriter(new OutputStreamWriter(socket.getOutputStream(), "UTF-8"), true);
@@ -52,7 +52,7 @@ public class Main {
 
       // Отправка темы письма
       System.out.println("Sending Subject");
-      sendCommand(writer, "Subject: Тема письма");
+      sendCommand(writer, "Subject: Вам письмо из Laba8");
       String responseSubject = readResponse(reader);
       System.out.println("Response after sending subject: " + responseSubject);
 
@@ -64,7 +64,7 @@ public class Main {
 
       // Отправка тела письма
       System.out.println("Sending body");
-      sendCommand(writer, "Это текст письма");
+      sendCommand(writer, "Письмо отправилось успешно!");
       String responseBody = readResponse(reader);
       System.out.println("Response after sending body: " + responseBody);
 
