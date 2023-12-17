@@ -32,24 +32,24 @@ public class Main {
     SwingUtilities.invokeLater(new Runnable() {
       public void run() {
         // Создаем главное окно
-        JFrame frame = new JFrame("PingPong");
+        JFrame frame = new JFrame("Ping Pong");
         frame.setSize(GAME_WIDTH, GAME_HEIGHT); // Устанавливаем размер окна
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // Устанавливаем операцию закрытия окна
         frame.setResizable(false);
 
         LeftPaddle leftPaddle = new LeftPaddle(0, GAME_HEIGHT / 2 - PADDLE_HEIGHT, PADDLE_WIDTH, PADDLE_HEIGHT);
-        leftPaddle.setBackground(new Color(34, 34, 34));
+        leftPaddle.setBackground(new Color(52, 53, 65));
 
         RightPaddle rightPaddle = new RightPaddle(0, GAME_HEIGHT / 2 - PADDLE_HEIGHT, PADDLE_WIDTH, PADDLE_HEIGHT);
-        rightPaddle.setBackground(new Color(34, 34, 34));
+        rightPaddle.setBackground(new Color(52, 53, 65));
 
         Ball ball = new Ball(BALL_SIZE, BALL_SIZE, leftPaddle, rightPaddle);
-        ball.setBackground(new Color(17, 17, 17));
+        ball.setBackground(Color.WHITE);
 
         Score score = new Score();
         RestartButton restartButton = new RestartButton();
         TopPanel topPanel = new TopPanel(restartButton, score);
-        topPanel.setBackground(new Color(34, 34, 34));
+        topPanel.setBackground(new Color(52, 53, 65));
 
         frame.add(topPanel, BorderLayout.NORTH);
         frame.add(ball, BorderLayout.CENTER);

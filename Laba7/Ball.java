@@ -33,7 +33,7 @@ public class Ball extends JPanel implements Runnable {
     this.leftPaddle = leftPaddle;
     this.rightPaddle = rightPaddle;
 
-    this.setBorder(BorderFactory.createMatteBorder(0, 0, 100, 0, new Color(34, 34, 34)));
+    this.setBorder(BorderFactory.createMatteBorder(0, 0, 100, 0, new Color(52, 53, 65)));
 
     // Генерируем случайное направление движения в пределах от -4 до -2 и от 2 до 4
     Random random = new Random();
@@ -51,7 +51,7 @@ public class Ball extends JPanel implements Runnable {
 
     // Рисуем круглый мяч
     Ellipse2D ball = new Ellipse2D.Double(x, y, width, height);
-    g2d.setColor(Color.WHITE);
+    g2d.setColor(Color.BLACK);
     g2d.fill(ball);
   }
 

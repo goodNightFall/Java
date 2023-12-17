@@ -10,7 +10,7 @@ public class Score extends JLabel {
   Score() {
     this.value = Integer.toString(Main.leftPlayerScore) + " / " + Integer.toString(Main.rightPlayerScore);
     this.setText(Integer.toString(Main.leftPlayerScore) + " / " + Integer.toString(Main.rightPlayerScore));
-    this.setFont(new Font("Verdana", 0, 20));
+    this.setFont(new Font("Verdana", 1, 20));
     this.setSize(value.length() * 20, 20);
     this.setForeground(Color.WHITE);
     System.out.println(this.getWidth());

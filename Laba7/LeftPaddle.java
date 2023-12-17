@@ -1,5 +1,6 @@
 package Laba7;
 
+import java.awt.*;
 import java.awt.event.KeyEvent;
 
 public class LeftPaddle extends Paddle {
@@ -12,9 +13,6 @@ public class LeftPaddle extends Paddle {
     this.setFocusable(true);
 
     new Thread(this).start();
-  }
-
-  public void keyTyped(KeyEvent e) {
   }
 
   public void keyPressed(KeyEvent e) {
@@ -53,5 +51,16 @@ public class LeftPaddle extends Paddle {
         e.printStackTrace();
       }
     }
+  }
+
+  @Override
+  protected void paintComponent(Graphics g) {
+    super.paintComponent(g);
+    Graphics2D g2d = (Graphics2D) g;
+
+    // Рисуем круглый мяч
+    Rectangle paddle = new Rectangle(x, y, width, height);
+    g2d.setColor(Color.RED);
+    g2d.fill(paddle);
   }
 }
